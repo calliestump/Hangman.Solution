@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using ProjectName.Models;
+using Hangman.Models;
 using System.Collections.Generic;
 
-namespace ProjectName.Controllers
+namespace Hangman.Controllers
 {
   public class ClassController : Controller
   {

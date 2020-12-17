@@ -1,15 +1,15 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
-//using ProjectName.Models
+//using Hangman.Models
 using System;
 
-namespace ProjectName.Test
+namespace Hangman.Test
 {
   [TestClass]
-  public class ClassTests
+  public class LetterTest
   {
     [TestMethod]
-    public void Class_Action_Return()
+    public void Word_Action_Return()
     {
       
     }
