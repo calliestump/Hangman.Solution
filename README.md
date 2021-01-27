@@ -1,5 +1,5 @@
 # Hangman
-
+### _This project is not in a complete or portfolio ready state, and should not be considered representational of professional work._<br>
 #### **12/17/20**
 
 ## By _Callie Stump, Danielle Thompson_
